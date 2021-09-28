@@ -14,6 +14,8 @@ locale: en
 20 R sebastian : Saint Sebastian, martyr
 21 m R agnes : Saint Agnes, virgin and martyr
 22 R vincent_deacon : Saint Vincent, deacon and martyr
+23 prelate_election : Anniversary of Prelate's Election
+24 f bvm_peace : Our Lady of Peace
 24 m francis_de_sales : Saint Francis de Sales, bishop and doctor
 25 f paul_conversion : The Conversion of Saint Paul, apostle
 26 m timothy_titus : Saints Timothy and Titus, bishops
@@ -69,13 +71,16 @@ locale: en
 = 5
 1 joseph_worker : Saint Joseph the Worker
 2 m athanasius : Saint Athanasius, bishop and doctor
+2 f dedication_prelatic : Dedication of the Prelatic Church
 3 f R philip_james : Saints Philip and James, Apostles
 10 john_de_avila : Saint John De Avila, Priest and Doctor of the Church
 12 R nereus_achilleus : Saints Nereus and Achilleus, martyrs
 12 R pancras : Saint Pancras, martyr
+12 f alvarus_portillo : Blessed Alvaro del Portillo
 13 bvm_fatima : Our Lady of Fatima
 14 f R matthias : Saint Matthias the Apostle
 18 R john_i : Saint John I, pope and martyr
+18 f guadalupe_ortiz : Blessed Guadalupe Ortiz de Landazuri
 20 bernardine : Saint Bernardine of Siena, priest
 21 R magallanes : Saint Christopher Magallanes and companions, martyrs
 22 rita : Saint Rita of Cascia
@@ -101,6 +106,7 @@ locale: en
 22 paulinus : Saint Paulinus of Nola, bishop
 22 R fisher_more : Saints John Fisher, bishop and martyr and Thomas More, martyr
 24 s baptist_birth : Birth of Saint John the Baptist
+26 f josemaria : Saint Josemaria
 27 cyril_of_alexandria : Saint Cyril of Alexandria, bishop and doctor
 28 m R irenaeus : Saint Irenaeus, bishop and martyr
 29 s R peter_paul : Saints Peter and Paul, Apostles
