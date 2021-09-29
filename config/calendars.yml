@@ -6,7 +6,7 @@ general-en: &default
     - packaged: universal-en
     ## in order to load your custom calendar, place the file in data/
     ## and include it like this:
-    #- file: universal-en.txt
+    # - file: universal-en-ex.txt
 
 general-la:
   title: Calendarium Romanum Generale
@@ -25,6 +25,14 @@ general-it:
   language: it
   sanctorale:
     - packaged: universal-it
+
+general-en-opus:
+  <<: *default
+  title: General Roman Calendar - Opus Dei
+  language: en
+  sanctorale:
+    - packaged: universal-en
+    - file: opus.txt
 
 # The following entries define
 # * common calendar of dioceses of Czech Republic

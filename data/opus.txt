@@ -1,0 +1,16 @@
+---
+title: General Roman Calendar - Opus Dei
+locale: en
+# source: https://en.wikipedia.org/wiki/General_Roman_Calendar
+---
+
+1/23 prelate_election : Anniversary of Prelate's Election
+1/24 m bvm_peace : Our Lady of Peace
+
+2/14 f bvm_pulchrae_dilectionis : Santa Maria, Madre del Amor Hermoso
+
+5/2 dedication_prelatic : Dedication of the Prelatic Church
+5/12 f alvarus_portillo : Blessed Alvaro del Portillo
+5/18 f guadalupe_ortiz : Blessed Guadalupe Ortiz de Landazuri
+
+6/26 f josemaria : Saint Josemaria
