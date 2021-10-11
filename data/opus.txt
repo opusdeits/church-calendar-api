@@ -8,10 +8,10 @@ locale: en
 1/24 francis_de_sales : Saint Francis de Sales, bishop and doctor
 1/24 bvm_peace : Our Lady of Peace
 
-2/14 f bvm_pulchrae_dilectionis : Santa Maria, Madre del Amor Hermoso
+2/14 bvm_pulchrae_dilectionis : Our Mother of Fair Love
 
 5/2 dedication_prelatic : Dedication of the Prelatic Church
-5/12 f alvarus_portillo : Blessed Alvaro del Portillo
-5/18 f guadalupe_ortiz : Blessed Guadalupe Ortiz de Landazuri
+5/12 alvarus_portillo : Blessed Alvaro del Portillo
+5/18 guadalupe_ortiz : Blessed Guadalupe Ortiz de Landazuri
 
-6/26 f josemaria : Saint Josemaria
+6/26 josemaria : Saint Josemaria
