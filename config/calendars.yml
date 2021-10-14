@@ -26,13 +26,13 @@ general-it:
   sanctorale:
     - packaged: universal-it
 
-general-en-opus:
+general-en-opus-dei:
   <<: *default
   title: General Roman Calendar - Opus Dei
   language: en
   sanctorale:
     - packaged: universal-en
-    - file: opus.txt
+    - file: opus-dei.txt
 
 # The following entries define
 # * common calendar of dioceses of Czech Republic
