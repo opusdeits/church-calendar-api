@@ -1,5 +1,5 @@
 ---
-title: General Roman Calendar - Opus Dei
+title: General Roman Calendar for Meditations Opus Dei
 locale: en
 # source: https://en.wikipedia.org/wiki/General_Roman_Calendar
 ---
