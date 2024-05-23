@@ -34,6 +34,13 @@ general-en-opus-dei:
     - packaged: universal-en
     - file: opus-dei.txt
 
+general-en-meditations:
+  title: General Roman Calendar for Meditations Opus Dei
+  language: en
+  sanctorale:
+    - packaged: universal-en
+    - file: meditations.txt
+
 # The following entries define
 # * common calendar of dioceses of Czech Republic
 # * calendars of it's both provinces - Bohemia and Moravia
