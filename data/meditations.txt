@@ -4,9 +4,17 @@ locale: en
 # source: https://en.wikipedia.org/wiki/General_Roman_Calendar
 ---
 
+1/18 unity1 : Week of Prayer for Christian Unity (day 1)
+1/19 unity2 : Week of Prayer for Christian Unity (day 2)
+1/20 unity3 : Week of Prayer for Christian Unity (day 3)
+1/21 unity4 : Week of Prayer for Christian Unity (day 4)
+1/22 unity5 : Week of Prayer for Christian Unity (day 5)
+1/23 unity6 : Week of Prayer for Christian Unity (day 6)
 1/23 prelate_election : Anniversary of Prelate's Election
+1/24 unity7 : Week of Prayer for Christian Unity (day 7)
 1/24 francis_de_sales : Saint Francis de Sales, bishop and doctor
 1/24 bvm_peace : Our Lady of Peace
+1/25 unity8 : Week of Prayer for Christian Unity (day 8)
 
 2/14 f bvm_pulchrae_dilectionis : Our Mother of Fair Love
 
@@ -19,3 +27,13 @@ locale: en
 10/2 s guardian_angels : Guardian Angels
 
 11/8 severin : Saint Severin, martyr
+
+11/30 novena1 : Novena to the Immaculate Conception (day 1)
+12/1 novena2 : Novena to the Immaculate Conception (day 2)
+12/2 novena3 : Novena to the Immaculate Conception (day 3)
+12/3 novena4 : Novena to the Immaculate Conception (day 4)
+12/4 novena5 : Novena to the Immaculate Conception (day 5)
+12/5 novena6 : Novena to the Immaculate Conception (day 6)
+12/6 novena7 : Novena to the Immaculate Conception (day 7)
+12/7 novena8 : Novena to the Immaculate Conception (day 8)
+12/8 novena9 : Novena to the Immaculate Conception (day 9)
