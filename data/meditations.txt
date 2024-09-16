@@ -27,12 +27,3 @@ locale: en
 10/2 s guardian_angels : Guardian Angels
 
 11/8 severin : Saint Severin, martyr
-
-11/30 novena1 : Novena to the Immaculate Conception (day 1)
-12/1 novena2 : Novena to the Immaculate Conception (day 2)
-12/2 novena3 : Novena to the Immaculate Conception (day 3)
-12/3 novena4 : Novena to the Immaculate Conception (day 4)
-12/4 novena5 : Novena to the Immaculate Conception (day 5)
-12/5 novena6 : Novena to the Immaculate Conception (day 6)
-12/6 novena7 : Novena to the Immaculate Conception (day 7)
-12/7 novena8 : Novena to the Immaculate Conception (day 8)
