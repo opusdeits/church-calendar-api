@@ -18,8 +18,8 @@ locale: en
 
 2/14 f bvm_pulchrae_dilectionis : Our Mother of Fair Love
 
-5/2 f athanasius : Saint Athanasius, bishop and doctor
-5/2 f dedication_prelatic : Dedication of the Prelatic Church
+5/2 athanasius : Saint Athanasius, bishop and doctor
+5/2 dedication_prelatic : Dedication of the Prelatic Church
 5/12 m alvarus_portillo : Blessed Alvaro del Portillo
 5/18 guadalupe_ortiz : Blessed Guadalupe Ortiz de Landazuri
 
