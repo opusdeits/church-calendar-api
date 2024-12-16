@@ -35,6 +35,7 @@ general-en-opus-dei:
     - file: opus-dei.txt
 
 general-en-meditations:
+  <<: *default
   title: General Roman Calendar for Meditations Opus Dei
   language: en
   sanctorale:
