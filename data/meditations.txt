@@ -25,5 +25,6 @@ locale: en
 6/26 s josemaria : Saint Josemaria
 
 10/2 s guardian_angels : Guardian Angels
+10/6 josemaria_canonization : Anniversary of the Canonization of St. Josemaría Escrivá
 
 11/8 severin : Saint Severin, martyr
